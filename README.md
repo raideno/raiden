@@ -5,7 +5,7 @@
 
 ## I'm a Student !
 
-- 🌱 I’m currently learning everything (test crontab 22)
+- 🌱 I’m currently learning everything (another crontab test 22)
 - 🥅 Goals: Join Interesting Project and Learn new things
 
 ### Connect with me:
